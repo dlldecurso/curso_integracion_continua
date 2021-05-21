@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: org.gobcan.cursoformacion.testprueba.AppTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.154 s <<< FAILURE! - in org.gobcan.cursoformacion.testprueba.AppTest
+pruebaDeSumaTest4(org.gobcan.cursoformacion.testprueba.AppTest)  Time elapsed: 0.014 s  <<< FAILURE!
+java.lang.AssertionError: La suma ha dejado de ser correcta expected:<-1> but was:<0>
+	at org.gobcan.cursoformacion.testprueba.AppTest.pruebaDeSumaTest4(AppTest.java:52)
+
